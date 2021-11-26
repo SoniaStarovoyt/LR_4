@@ -1,0 +1,7 @@
+#LR_4
+$cat .gitignore
+*txt
+*.a
+!lib.a
+/TODO
+build/
